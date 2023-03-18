@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcde5e6d-7ac8-4c4a-b90d-3d32bef93cf0" name="Changes" comment="DZ 4">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="dcde5e6d-7ac8-4c4a-b90d-3d32bef93cf0" name="Changes" comment="DZ 5">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +79,7 @@
       <workItem from="1678831750547" duration="2296000" />
       <workItem from="1678976690899" duration="879000" />
       <workItem from="1678978120700" duration="999000" />
-      <workItem from="1679139067956" duration="984000" />
+      <workItem from="1679139067956" duration="1511000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1677937390572</created>
@@ -130,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678834109538</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="DZ 5">
+      <created>1679141014287</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1679141014287</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +162,7 @@
     <MESSAGE value="DZ 2" />
     <MESSAGE value="DZ 3" />
     <MESSAGE value="DZ 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="DZ 4" />
+    <MESSAGE value="DZ 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="DZ 5" />
   </component>
 </project>
