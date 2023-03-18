@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcde5e6d-7ac8-4c4a-b90d-3d32bef93cf0" name="Changes" comment="DZ 3">
+    <list default="true" id="dcde5e6d-7ac8-4c4a-b90d-3d32bef93cf0" name="Changes" comment="DZ 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,19 +38,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/admin/Desktop/GB/gb-java/src/main/java/com/ask0n",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/admin/Desktop/GB/gb-java/src/main/java/com/ask0n&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\admin\Desktop\GB\gb-java\src\main\java\com\ask0n" />
@@ -77,7 +76,10 @@
       <workItem from="1678489977420" duration="794000" />
       <workItem from="1678629500424" duration="599000" />
       <workItem from="1678715571605" duration="49000" />
-      <workItem from="1678831750547" duration="2142000" />
+      <workItem from="1678831750547" duration="2296000" />
+      <workItem from="1678976690899" duration="879000" />
+      <workItem from="1678978120700" duration="999000" />
+      <workItem from="1679139067956" duration="984000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1677937390572</created>
@@ -121,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678490760956</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="DZ 4">
+      <created>1678834109538</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678834109538</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +154,7 @@
     <MESSAGE value="Add README" />
     <MESSAGE value="DZ 2" />
     <MESSAGE value="DZ 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="DZ 3" />
+    <MESSAGE value="DZ 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="DZ 4" />
   </component>
 </project>
